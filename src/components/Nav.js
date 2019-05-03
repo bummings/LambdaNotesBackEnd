@@ -6,7 +6,7 @@ class Nav extends React.Component {
     return (
       <div className='sideBar'>
         <h1 className='sideBar__headline'>
-          Lambda
+          Edd's
           <br />
           Notes
         </h1>
